@@ -1,0 +1,99 @@
+{
+  "plugin": {
+    "totalDownloads": 50,
+    "stargazers": 2,
+    "createdAt": "2026-04-14T02:02:56Z",
+    "latestReleaseAt": "2026-05-13T06:33:38Z",
+    "lastCommitDate": "2026-05-15T02:58:16Z",
+    "commitCountInLast24Months": 208,
+    "totalReleases": 20,
+    "releases": [
+      {
+        "publishedAt": "2026-04-14T05:42:38Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-14T07:51:15Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-14T13:53:28Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-14T16:21:24Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-16T14:34:18Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-17T15:28:32Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-18T04:42:45Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-18T06:48:32Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-19T01:30:43Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-04-19T09:52:46Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-21T12:34:57Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-23T11:01:34Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-24T02:32:51Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-26T03:46:13Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-26T18:01:03Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-05-01T04:08:44Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-02T03:57:21Z",
+        "downloads": 21
+      },
+      {
+        "publishedAt": "2026-05-13T03:02:03Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-13T06:04:03Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-05-13T06:33:38Z",
+        "downloads": 17
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-05-17T01:42:16.962Z"
+}

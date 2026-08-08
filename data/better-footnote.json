@@ -1,0 +1,86 @@
+{
+  "plugin": {
+    "totalDownloads": 3121,
+    "stargazers": 6,
+    "createdAt": "2026-05-16T01:06:29Z",
+    "latestReleaseAt": "2026-08-04T04:48:45Z",
+    "lastCommitDate": "2026-08-04T04:48:42Z",
+    "commitCountInLast24Months": 14,
+    "totalReleases": 11,
+    "releases": [
+      {
+        "publishedAt": "2026-05-16T01:10:08Z",
+        "downloads": 147
+      },
+      {
+        "publishedAt": "2026-05-16T10:49:01Z",
+        "downloads": 158
+      },
+      {
+        "publishedAt": "2026-05-17T02:28:25Z",
+        "downloads": 205
+      },
+      {
+        "publishedAt": "2026-05-19T13:00:02Z",
+        "downloads": 206
+      },
+      {
+        "publishedAt": "2026-05-21T13:03:19Z",
+        "downloads": 277
+      },
+      {
+        "publishedAt": "2026-05-28T12:59:42Z",
+        "downloads": 306
+      },
+      {
+        "publishedAt": "2026-06-06T01:39:13Z",
+        "downloads": 193
+      },
+      {
+        "publishedAt": "2026-06-08T00:27:50Z",
+        "downloads": 659
+      },
+      {
+        "publishedAt": "2026-07-04T12:52:10Z",
+        "downloads": 753
+      },
+      {
+        "publishedAt": "2026-08-03T06:15:52Z",
+        "downloads": 51
+      },
+      {
+        "publishedAt": "2026-08-04T04:48:45Z",
+        "downloads": 166
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2026-08-02T00:33:45Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-06-10T20:02:20Z",
+        "closedAt": "2026-06-15T22:58:15Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-07-03T17:40:37Z",
+        "closedAt": "2026-07-05T22:09:29Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2026-08-04T22:03:01Z",
+        "closedAt": "2026-08-04T22:47:55Z"
+      }
+    ],
+    "mergedPRs": []
+  },
+  "now": "2026-08-08T00:42:43.187Z"
+}

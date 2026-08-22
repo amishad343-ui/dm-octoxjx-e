@@ -1,0 +1,96 @@
+{
+  "plugin": {
+    "totalDownloads": 1119,
+    "stargazers": 9,
+    "createdAt": "2026-07-20T03:14:40Z",
+    "latestReleaseAt": "2026-08-19T09:23:21Z",
+    "lastCommitDate": "2026-08-19T09:13:35Z",
+    "commitCountInLast24Months": 555,
+    "totalReleases": 17,
+    "releases": [
+      {
+        "publishedAt": "2026-07-21T08:33:34Z",
+        "downloads": 58
+      },
+      {
+        "publishedAt": "2026-07-22T02:37:39Z",
+        "downloads": 58
+      },
+      {
+        "publishedAt": "2026-07-22T03:24:30Z",
+        "downloads": 57
+      },
+      {
+        "publishedAt": "2026-07-22T03:45:21Z",
+        "downloads": 60
+      },
+      {
+        "publishedAt": "2026-07-22T10:35:52Z",
+        "downloads": 108
+      },
+      {
+        "publishedAt": "2026-07-27T09:27:14Z",
+        "downloads": 56
+      },
+      {
+        "publishedAt": "2026-07-28T01:30:40Z",
+        "downloads": 51
+      },
+      {
+        "publishedAt": "2026-07-28T02:13:38Z",
+        "downloads": 52
+      },
+      {
+        "publishedAt": "2026-07-28T09:26:14Z",
+        "downloads": 106
+      },
+      {
+        "publishedAt": "2026-08-04T02:12:23Z",
+        "downloads": 26
+      },
+      {
+        "publishedAt": "2026-08-04T02:43:26Z",
+        "downloads": 29
+      },
+      {
+        "publishedAt": "2026-08-04T06:13:30Z",
+        "downloads": 31
+      },
+      {
+        "publishedAt": "2026-08-04T08:37:25Z",
+        "downloads": 26
+      },
+      {
+        "publishedAt": "2026-08-04T09:54:47Z",
+        "downloads": 31
+      },
+      {
+        "publishedAt": "2026-08-04T10:32:08Z",
+        "downloads": 152
+      },
+      {
+        "publishedAt": "2026-08-11T06:54:05Z",
+        "downloads": 161
+      },
+      {
+        "publishedAt": "2026-08-19T09:23:21Z",
+        "downloads": 57
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2026-08-11T12:08:17Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-14T04:39:34Z"
+      }
+    ],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-08-22T00:16:58.473Z"
+}

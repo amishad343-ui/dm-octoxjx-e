@@ -1,0 +1,114 @@
+{
+  "plugin": {
+    "totalDownloads": 1902,
+    "stargazers": 15,
+    "createdAt": "2026-04-17T21:34:50Z",
+    "latestReleaseAt": "2026-08-06T14:48:38Z",
+    "lastCommitDate": "2026-08-06T14:48:37Z",
+    "commitCountInLast24Months": 102,
+    "totalReleases": 12,
+    "releases": [
+      {
+        "publishedAt": "2026-04-25T23:26:53Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-26T00:36:39Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-04-26T23:31:23Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-04-28T04:15:29Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-05-19T23:36:09Z",
+        "downloads": 147
+      },
+      {
+        "publishedAt": "2026-06-16T18:40:45Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-06-16T20:24:01Z",
+        "downloads": 9
+      },
+      {
+        "publishedAt": "2026-06-16T23:35:40Z",
+        "downloads": 6
+      },
+      {
+        "publishedAt": "2026-06-16T23:48:49Z",
+        "downloads": 616
+      },
+      {
+        "publishedAt": "2026-07-16T15:07:49Z",
+        "downloads": 391
+      },
+      {
+        "publishedAt": "2026-08-03T01:46:08Z",
+        "downloads": 95
+      },
+      {
+        "publishedAt": "2026-08-06T14:48:38Z",
+        "downloads": 623
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2026-07-08T08:19:32Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-02T10:13:59Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-20T23:00:58Z"
+      },
+      {
+        "label": "bug",
+        "createdAt": "2026-08-21T11:03:21Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-19T16:11:02Z",
+        "closedAt": "2026-05-20T00:00:16Z"
+      },
+      {
+        "originalLabel": "feature_request",
+        "reason": "completed",
+        "createdAt": "2026-05-28T10:06:42Z",
+        "closedAt": "2026-07-16T15:23:38Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-06-14T18:48:48Z",
+        "closedAt": "2026-07-16T15:23:35Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-08-04T03:34:30Z",
+        "closedAt": "2026-08-06T14:47:30Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": [
+      {
+        "createdAt": "2026-05-19T17:44:43Z",
+        "mergedAt": "2026-05-19T23:29:43Z"
+      }
+    ]
+  },
+  "now": "2026-08-22T00:15:07.179Z"
+}

@@ -1,0 +1,59 @@
+{
+  "plugin": {
+    "totalDownloads": 18,
+    "stargazers": 0,
+    "createdAt": "2026-08-18T04:41:51Z",
+    "latestReleaseAt": "2026-08-23T02:59:19Z",
+    "lastCommitDate": "2026-08-23T02:58:42Z",
+    "commitCountInLast24Months": 13,
+    "totalReleases": 3,
+    "releases": [
+      {
+        "publishedAt": "2026-08-23T01:57:55Z",
+        "downloads": 1
+      },
+      {
+        "publishedAt": "2026-08-23T02:38:32Z",
+        "downloads": 0
+      },
+      {
+        "publishedAt": "2026-08-23T02:59:19Z",
+        "downloads": 17
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "question",
+        "createdAt": "2026-08-23T01:57:48Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-08-23T01:57:49Z"
+      },
+      {
+        "label": "feature_request",
+        "createdAt": "2026-08-23T01:57:50Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2026-08-23T01:59:50Z"
+      },
+      {
+        "label": "question",
+        "createdAt": "2026-08-23T01:59:52Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "question",
+        "reason": "completed",
+        "createdAt": "2026-08-23T01:57:47Z",
+        "closedAt": "2026-08-23T01:59:58Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-09-05T01:32:42.306Z"
+}

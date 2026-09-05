@@ -1,0 +1,90 @@
+{
+  "plugin": {
+    "totalDownloads": 1863,
+    "stargazers": 5,
+    "createdAt": "2024-04-06T08:25:40Z",
+    "latestReleaseAt": "2026-09-01T19:42:20Z",
+    "lastCommitDate": "2026-09-01T19:34:30Z",
+    "commitCountInLast24Months": 44,
+    "totalReleases": 11,
+    "releases": [
+      {
+        "publishedAt": "2024-04-06T13:41:46Z",
+        "downloads": 16
+      },
+      {
+        "publishedAt": "2024-04-11T19:27:22Z",
+        "downloads": 1417
+      },
+      {
+        "publishedAt": "2026-06-23T15:26:38Z",
+        "downloads": 171
+      },
+      {
+        "publishedAt": "2026-07-20T16:18:50Z",
+        "downloads": 31
+      },
+      {
+        "publishedAt": "2026-07-24T18:52:06Z",
+        "downloads": 27
+      },
+      {
+        "publishedAt": "2026-07-29T16:18:31Z",
+        "downloads": 34
+      },
+      {
+        "publishedAt": "2026-08-03T16:45:29Z",
+        "downloads": 17
+      },
+      {
+        "publishedAt": "2026-08-04T15:45:41Z",
+        "downloads": 7
+      },
+      {
+        "publishedAt": "2026-08-04T16:38:17Z",
+        "downloads": 25
+      },
+      {
+        "publishedAt": "2026-08-05T15:55:51Z",
+        "downloads": 97
+      },
+      {
+        "publishedAt": "2026-09-01T19:42:20Z",
+        "downloads": 21
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "bug",
+        "createdAt": "2026-09-01T02:24:40Z"
+      }
+    ],
+    "closedIssues": [
+      {
+        "originalLabel": "bug",
+        "reason": "not_planned",
+        "createdAt": "2025-10-21T18:27:17Z",
+        "closedAt": "2025-10-23T17:54:40Z"
+      },
+      {
+        "originalLabel": "bug",
+        "reason": "completed",
+        "createdAt": "2026-07-19T23:21:01Z",
+        "closedAt": "2026-07-27T19:52:22Z"
+      }
+    ],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": [
+      {
+        "createdAt": "2025-08-15T12:19:38Z",
+        "mergedAt": "2025-08-15T12:21:01Z"
+      },
+      {
+        "createdAt": "2025-08-15T12:20:10Z",
+        "mergedAt": "2025-08-15T12:24:25Z"
+      }
+    ]
+  },
+  "now": "2026-09-05T01:30:42.759Z"
+}

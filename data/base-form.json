@@ -1,0 +1,101 @@
+{
+  "plugin": {
+    "totalDownloads": 453,
+    "stargazers": 5,
+    "createdAt": "2026-08-08T14:48:22Z",
+    "latestReleaseAt": "2026-09-10T20:38:04Z",
+    "lastCommitDate": "2026-09-10T20:37:41Z",
+    "commitCountInLast24Months": 48,
+    "totalReleases": 15,
+    "releases": [
+      {
+        "publishedAt": "2026-08-08T15:30:17Z",
+        "downloads": 8
+      },
+      {
+        "publishedAt": "2026-08-08T15:53:16Z",
+        "downloads": 29
+      },
+      {
+        "publishedAt": "2026-08-09T13:54:47Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-08-09T14:49:19Z",
+        "downloads": 10
+      },
+      {
+        "publishedAt": "2026-08-09T14:52:30Z",
+        "downloads": 24
+      },
+      {
+        "publishedAt": "2026-08-09T16:18:32Z",
+        "downloads": 52
+      },
+      {
+        "publishedAt": "2026-08-12T01:57:15Z",
+        "downloads": 82
+      },
+      {
+        "publishedAt": "2026-09-02T10:35:29Z",
+        "downloads": 26
+      },
+      {
+        "publishedAt": "2026-09-02T22:14:17Z",
+        "downloads": 22
+      },
+      {
+        "publishedAt": "2026-09-03T09:50:44Z",
+        "downloads": 18
+      },
+      {
+        "publishedAt": "2026-09-03T10:05:21Z",
+        "downloads": 27
+      },
+      {
+        "publishedAt": "2026-09-04T10:41:13Z",
+        "downloads": 34
+      },
+      {
+        "publishedAt": "2026-09-05T13:48:55Z",
+        "downloads": 28
+      },
+      {
+        "publishedAt": "2026-09-06T15:59:35Z",
+        "downloads": 45
+      },
+      {
+        "publishedAt": "2026-09-10T20:38:04Z",
+        "downloads": 37
+      }
+    ],
+    "openIssues": [],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [
+      {
+        "createdAt": "2026-08-08T14:49:34Z",
+        "closedAt": "2026-08-08T14:58:16Z"
+      }
+    ],
+    "mergedPRs": [
+      {
+        "createdAt": "2026-08-08T14:49:46Z",
+        "mergedAt": "2026-08-08T15:18:59Z"
+      },
+      {
+        "createdAt": "2026-09-02T23:11:03Z",
+        "mergedAt": "2026-09-03T09:48:48Z"
+      },
+      {
+        "createdAt": "2026-09-10T08:41:28Z",
+        "mergedAt": "2026-09-10T20:33:12Z"
+      },
+      {
+        "createdAt": "2026-09-10T20:34:41Z",
+        "mergedAt": "2026-09-10T20:36:05Z"
+      }
+    ]
+  },
+  "now": "2026-09-16T01:56:28.518Z"
+}

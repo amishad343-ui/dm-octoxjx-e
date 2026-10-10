@@ -1,0 +1,88 @@
+{
+  "plugin": {
+    "totalDownloads": 1791,
+    "stargazers": 3,
+    "createdAt": "2026-01-16T10:23:57Z",
+    "latestReleaseAt": "2026-10-06T06:58:02Z",
+    "lastCommitDate": "2026-10-06T06:57:15Z",
+    "commitCountInLast24Months": 442,
+    "totalReleases": 15,
+    "releases": [
+      {
+        "publishedAt": "2026-04-03T15:40:08Z",
+        "downloads": 32
+      },
+      {
+        "publishedAt": "2026-04-03T15:56:35Z",
+        "downloads": 323
+      },
+      {
+        "publishedAt": "2026-06-07T10:35:04Z",
+        "downloads": 72
+      },
+      {
+        "publishedAt": "2026-06-07T13:18:41Z",
+        "downloads": 61
+      },
+      {
+        "publishedAt": "2026-06-07T15:30:59Z",
+        "downloads": 130
+      },
+      {
+        "publishedAt": "2026-06-14T09:14:31Z",
+        "downloads": 79
+      },
+      {
+        "publishedAt": "2026-06-15T15:30:46Z",
+        "downloads": 659
+      },
+      {
+        "publishedAt": "2026-09-10T11:39:34Z",
+        "downloads": 34
+      },
+      {
+        "publishedAt": "2026-09-10T14:24:18Z",
+        "downloads": 35
+      },
+      {
+        "publishedAt": "2026-09-10T15:25:01Z",
+        "downloads": 30
+      },
+      {
+        "publishedAt": "2026-09-10T15:33:11Z",
+        "downloads": 56
+      },
+      {
+        "publishedAt": "2026-09-11T16:19:32Z",
+        "downloads": 231
+      },
+      {
+        "publishedAt": "2026-10-05T09:34:03Z",
+        "downloads": 2
+      },
+      {
+        "publishedAt": "2026-10-05T10:24:33Z",
+        "downloads": 11
+      },
+      {
+        "publishedAt": "2026-10-06T06:58:02Z",
+        "downloads": 36
+      }
+    ],
+    "openIssues": [
+      {
+        "label": "feature_request",
+        "createdAt": "2026-07-25T13:40:05Z"
+      },
+      {
+        "label": "other",
+        "createdAt": "2026-09-13T11:41:01Z"
+      }
+    ],
+    "closedIssues": [],
+    "openPRs": [],
+    "closedPRs": [],
+    "mergedPRs": []
+  },
+  "now": "2026-10-10T02:52:55.818Z"
+}
